@@ -1,0 +1,9 @@
+pandas==1.0.5
+matplotlib==3.2.2
+scipy==1.5.0
+numpy==1.18.5
+seaborn==0.10.1
+scikit-learn==0.21.3
+pickle==1.2.2
+flask==1.1.1
+random==1.1.1
